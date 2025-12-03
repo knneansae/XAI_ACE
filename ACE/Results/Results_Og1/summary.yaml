@@ -1,0 +1,1 @@
+{'n': 5, 'clean acc': 1.0, 'clean acc5': 1.0, 'explanation': {'cf': 1.0, 'cf5': 1.0, 'untargeted': 1.0, 'untargeted5': 0.0, 'l1': 0.00558307187166065, 'l inf': 0.3782959818840027}, 'pre-explanation': {'cf': 0.8, 'cf5': 1.0, 'untargeted': 0.8, 'untargeted5': 0.0, 'l1': 0.0034970676759257914, 'l inf': 0.191372549533844}}

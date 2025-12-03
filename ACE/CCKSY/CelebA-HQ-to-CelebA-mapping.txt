@@ -1,0 +1,6 @@
+idx        orig_idx   orig_file
+0          0          Chungha.jpg
+1          1          Karina.jpg
+2          2          SulYoon.jpg
+3          3          WonYoung.jpg
+4          4          Yuna.jpg
